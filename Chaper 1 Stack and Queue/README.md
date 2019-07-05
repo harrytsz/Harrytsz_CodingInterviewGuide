@@ -1,6 +1,7 @@
 Chapter 1. Stack and Queue
 
 [设计一个有 getMin 功能的栈](./Questions/1.设计一个有 getMin 功能的栈.md) 
+[Day000](./Diarys/Day000/README.md)
 
 2. 由两个栈组成的队列 :balloon::balloon:
 
