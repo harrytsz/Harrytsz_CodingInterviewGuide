@@ -1,6 +1,6 @@
 Chapter 1. Stack and Queue
 
-1. [设计一个有 getMin 功能的栈](./Questions/1.设计一个有 getMin 功能的栈.md/## 设计一个有 getMin 功能的栈) :balloon:
+1. [设计一个有 getMin 功能的栈](./Questions/1.设计一个有 getMin 功能的栈.md/# 设计一个有 getMin 功能的栈) :balloon:
 
 2. 由两个栈组成的队列 :balloon::balloon:
 
